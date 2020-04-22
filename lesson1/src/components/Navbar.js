@@ -10,9 +10,7 @@ function Navbar(){
     return(
         <navbar>
             <ul>
-                <li><a>Products</a></li>
-                <li><a>Categories</a></li>
-                <li><a>Users</a></li>
+                <li><a>Main</a></li>
                 <li><a>Login</a></li>
                 <li style={obj}><img src="https://img.icons8.com/cotton/42/000000/logout-rounded.png"/></li>
             </ul>

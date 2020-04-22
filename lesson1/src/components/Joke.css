@@ -1,0 +1,29 @@
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    overflow:hidden;
+    width:350px;
+    height: 200px;
+    display:inline-block;
+    margin-left: 20px;
+    margin-top: 75px;
+    text-align: center;
+    background-color: thistle;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card div{
+    padding-top: 10px;
+    
+}
+
+.question{
+    font-weight: bold;
+}
+
+.likeIcon{
+    text-align: center;
+}

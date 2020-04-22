@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: lightgrey;
+    background-color:lightgrey;
     position: fixed;
     top: 0;
     width: 100%;
@@ -23,6 +23,6 @@ li a {
 }
 
 li a:hover {
-    background-color: rgb(146, 133, 231);
+    background-color: rgb(236, 161, 147);
     cursor: pointer;
 }
